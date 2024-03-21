@@ -1,52 +1,48 @@
 Skill,Category
-Retail,Other
-Fire Protection,Security and Compliance
-Project Engineer,Manufacturing and Engineering
-Collection Maintenance,Construction and Maintenance
-Energy Solutions,Product Development and Improvement
-Siemens,Technical Skills
-Estimation,Analysis and Research
-Relationship Building,Communication and Collaboration
-ROI (Return on Investment),Finance and Accounting
-Labview,Software Tools and Platforms
+Industrial Facilities,Construction and Maintenance
+Retail Marketing,Business Development
 Project Development,Project Management
-Industrial Facilities,Manufacturing and Engineering
-Clients,Customer Service and Relations
-Selling Of,Sales and Marketing
-DasyLab,Software Tools and Platforms
-Testing,Testing and Validation
-SQL,Data Management
-Electrical,Technical Skills
-Sales Activities,Sales and Marketing
-SCADA,Network and Systems
-Award,Other
-Test Stand Fabrication,Manufacturing and Engineering
-Lean/5S,Operational Efficiency
-Energy Management,Health and Environment
-Technical Assistance,Education and Training
-Retail Marketing,Sales and Marketing
+Energy Solutions,Health and Environment
 Retrofit,Construction and Maintenance
+SQL,Data Management
+HVAC,Construction and Maintenance
 Commercial Buildings,Construction and Maintenance
-Pricing,Finance and Accounting
-Long-term Disability (LTD) Engineer,Other
-Estimator,Analysis and Research
-Project Planning,Project Management
-Mechanical,Technical Skills
-Hydraulic Testing,Testing and Validation
-ECMs (Energy Conservation Measures),Product Development and Improvement
-Sales Team Takeoffs,Project Management
-Security,Security and Compliance
-CSR (Corporate Social Responsibility),Leadership and Strategy
-Real Time,Network and Systems
-Sales,Sales and Marketing
-Proposals,Communication and Collaboration
-Networking,Networking and Telecommunications
-Estimating,Analysis and Research
-Solutions,IT and Software Solutions
-HVAC,Technical Skills
-Quotations,Sales and Marketing
-Sales Engineer,Sales and Marketing
-Marketing,Sales and Marketing
-Operations,Operational Efficiency
-Front End,Software Development
+Quotations,Communication and Collaboration
 Instrumentation,Technical Skills
+Energy Conservation,Health and Environment
+Operations,Operational Efficiency
+Maintenance,Construction and Maintenance
+Labview,Software Tools and Platforms
+Project Engineer,Project Management
+Takeoffs,Analysis and Research
+Sales Activities,Business Development
+CSR,Customer Service and Relations
+Pricing,Finance and Accounting
+Real Time,IT and Software Solutions
+Lean/5S,Manufacturing and Engineering
+Collection,Finance and Accounting
+DasyLab,Software Tools and Platforms
+Marketing,Business Development
+Fire Protection,Construction and Maintenance
+Relationship Building,Communication and Collaboration
+Mechanical,Technical Skills
+Test Stand Fabrication,Manufacturing and Engineering
+SCADA,Technical Skills
+Project Planning,Project Management
+Estimation,Analysis and Research
+Estimating,Analysis and Research
+Electrical,Technical Skills
+Sales Team,Leadership and Strategy
+Networking,Networking and Telecommunications
+Hydraulic Testing,Testing and Validation
+Proposals,Communication and Collaboration
+Front End,Software Development
+Sales,Business Development
+Retail,Business Development
+ROI,Finance and Accounting
+Energy Management,Health and Environment
+Security,Security and Compliance
+Testing,Testing and Validation
+Siemens,Other
+Solutions,Business Development
+Technical Assistance,Customer Service and Relations
